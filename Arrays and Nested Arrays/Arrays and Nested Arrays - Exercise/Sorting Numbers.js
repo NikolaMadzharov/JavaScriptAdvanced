@@ -8,6 +8,7 @@ function solve(array) {
         result.push(sorted.shift(), sorted.pop());
     }
 
+
     return result;
 }
 
