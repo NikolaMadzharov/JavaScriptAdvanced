@@ -1,3 +1,4 @@
+
 function deleteByEmail() {
     let emailInputElemet = document.querySelector('input[name="email"]');
     let userElements = document.querySelectorAll('tr td:nth-of-type(2)');
